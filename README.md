@@ -29,6 +29,8 @@ Builder at **[Halldon](https://halldon.com)**. I ship products end to end: smart
 - **AI phone agent** for a contractor: books and reschedules jobs over the phone in under a second of latency.
 - **AI photo studio** for car dealerships: inventory photo editing and video generation, iOS/Android.
 - **[The Great Migration](https://not-fkn-bearish.vercel.app)**: NFT lending game design, borrow ETH against your bear and get tranquilized if you get liquidated (site live, contracts in progress). [code](https://github.com/huntclubhero/great-migration)
+- **[Farmers](https://github.com/huntclubhero/farmers-nft)**: 200 fully on-chain animated pet NFTs, claimed by tapping an NFC hat. UUPS contract, 39 tests, front-run-resistant claim site.
+- **[Tap2](https://github.com/huntclubhero/tap2)**: customer accounts without the app. Loyalty, memberships and access as Apple/Google Wallet passes backed by smart accounts.
 - **[THE PIT](https://github.com/huntclubhero/the-pit)**: peer-to-peer memecoin perps (750+ Foundry tests, fuzz + invariants), in development.
 - **[Hero Chat](https://hero-chat-peach.vercel.app)**, **[wormping](https://github.com/huntclubhero/wormping)** (Worms voice alerts for AI coding agents), **[Tennis line calling](https://github.com/Halldon-Inc/Tennis)** (computer vision MVP).
 
